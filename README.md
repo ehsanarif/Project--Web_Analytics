@@ -1,6 +1,6 @@
 # Project--Web_Analytics
 
-_Analyzing the internet data of a website for determining exits, views and bounces_
+_Analyzing the internet data of a website for determining exits, views and bounces._
 
 
 Brief description of features:
